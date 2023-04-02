@@ -1,0 +1,30 @@
+.avList{
+   position: relative;
+   display: inline-block;
+   border: 2px solid #f8c;
+   left:50px;
+   top: 50px;
+   bottom: 50px;
+   width: 320px;
+   height: 100%;
+   background-color: #3fe;
+   text-align: center;
+ 
+}
+
+.form
+{
+   position: absolute;
+   left: 0;
+   right: 0;
+   background-color: aliceblue;
+   height: 50%;
+   top: 50%;
+}
+ul{
+   list-style-type: none;
+     text-align: center;
+   
+}
+
+
